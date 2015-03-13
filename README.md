@@ -7,7 +7,7 @@ Because everytime we need to open the same project and change package name, comp
 <b>Solution</b>
 
     FacebookKeyHash fbKeyHash = new FacebookKeyHash(context);
-    fbKeyHash.generate("\<package name\>");
+    fbKeyHash.generate("<package name>");
 
 Thats it, print hash anywhere you want.
 
