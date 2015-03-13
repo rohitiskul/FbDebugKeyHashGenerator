@@ -1,4 +1,4 @@
-# Facebook Debug key hash generator
+# Facebook key hash generator
 
 <b>Why?</b>
 
@@ -18,8 +18,8 @@ Add gradle dependency :
            url "https://jitpack.io"
         }
     }
-	dependencies {
-	        compile 'com.github.rohitiskul:FbDebugKeyHashGenerator:'
-	}
+    dependencies {
+        compile 'com.github.rohitiskul:FbDebugKeyHashGenerator:'
+    }
 	
 More information on http://jitpack.io
