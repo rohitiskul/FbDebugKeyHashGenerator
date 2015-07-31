@@ -19,7 +19,7 @@ Add gradle dependency :
         }
     }
     dependencies {
-        compile 'com.github.rohitiskul:FbDebugKeyHashGenerator:1.0'
+        compile 'com.github.rohitiskul:FbDebugKeyHashGenerator:2.0'
     }
 	
 More information on http://jitpack.io
